@@ -18,12 +18,13 @@
             "args": [
                 "@bytebase/dbhub@latest",
                 "--transport",
-                "http",
+                "stdio",
                 "--host",
                 "127.0.0.1",
                 "--port",
                 "8080",
-                "--demo"
+                "--dsn",
+                "sqlite:///home/teamsharq/infoshare-coi-testerai-2/shopeasy-demo/dev.db"
             ]
         },
     }
