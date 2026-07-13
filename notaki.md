@@ -63,3 +63,9 @@
 - Save as resuable *.prompt.md 
   - Workspace -> GIT -> Share with TEAM
   - User -> cross-project
+
+
+# Pliki instrukcji
+- Stały reużywalny kontekst ładowant na żądanie
+- Reguły, checklisty, standardy, przykłady ...
+
