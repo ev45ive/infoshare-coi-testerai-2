@@ -5,9 +5,9 @@
 
 - [Model](./LLM.md) - Model AI
 
-- [Chat]
+- [Chat]- Sesja, Kontekt
 
-- [Assistant]
+- [Assistant] - prompts, instukcje 
 
 - [Agent]
 
