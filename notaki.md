@@ -69,3 +69,10 @@
 - Stały reużywalny kontekst ładowant na żądanie
 - Reguły, checklisty, standardy, przykłady ...
 
+
+# Ask-me-Questions Prompt (Grill Me)
+- Prompt prowadzi usera przez ustalony proces 
+- Gromadzimy kontekst
+- Podejmujemy decyzje
+- Weryfikujemy założenia
+- Wykonujemy konkretnet zadania - zapisz plik, zrób zmiany, itd.
