@@ -30,13 +30,36 @@
  - model wysyłą specjalny XML/JSON do narzędzia (VSCODE)
  - wynik zadania jest promptem dla modelu (jako XML/JSON)
 
-# Chain of thought (Thinking model)
+## Chain of thought (Thinking model)
  - Najpierw rozpisz jak rozumiesz zadanie, co wiesz czego brakuje
  - Zaplanuj odpowiedź
  - Odpowiedz
 
-# Harness *dokłada* do każdego wywołania:
+## Harness *dokłada* do każdego wywołania:
  - historię sesji (poprzednie wiadomości)
  - system prompt / instrukcje
  - narzędzia (web search, code runner, MCP)
  - zarządzanie kontekstem
+
+
+
+# Budowanie Reużywalnego Propmptu  
+
+- Przejdź przez zadanie
+
+- Określ elementy dobrego promptu :
+    - Rola
+    - Cel
+    - Instrukcje
+    - Format
+    - Szablon/Przykład (placeholders / shots)
+
+- Meta-Prompt
+ - /create-prompt nazwa-prompta
+ - Elicitation - Prompt ma dopytać usera/kontekst
+
+- Verify
+
+- Save as resuable *.prompt.md 
+  - Workspace -> GIT -> Share with TEAM
+  - User -> cross-project
