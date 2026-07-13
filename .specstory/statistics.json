@@ -1,5 +1,14 @@
 {
   "sessions": {
+    "018b1f9b-cae7-4cd0-b89e-7ee529440169": {
+      "user_message_count": 1,
+      "agent_message_count": 1,
+      "start_timestamp": "2026-07-13T16:49:06+02:00",
+      "end_timestamp": "1970-01-01T01:00:00+01:00",
+      "markdown_size_bytes": 1019,
+      "provider": "copilotide",
+      "last_updated": "2026-07-13T14:50:12Z"
+    },
     "27f06ce0-8deb-4825-b7c3-b0a2f1d6ec6b": {
       "user_message_count": 1,
       "agent_message_count": 1,
@@ -81,6 +90,15 @@
       "provider": "copilotide",
       "last_updated": "2026-07-13T13:44:36Z"
     },
+    "763054ec-00f8-4cf0-9028-785a818df1e7": {
+      "user_message_count": 1,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-07-13T16:48:05+02:00",
+      "end_timestamp": "1970-01-01T01:00:00+01:00",
+      "markdown_size_bytes": 249,
+      "provider": "copilotide",
+      "last_updated": "2026-07-13T14:48:12Z"
+    },
     "93b063f1-9382-4924-8e98-880714176c00": {
       "user_message_count": 1,
       "agent_message_count": 1,
@@ -99,6 +117,15 @@
       "provider": "copilotide",
       "last_updated": "2026-07-13T13:44:36Z"
     },
+    "9fec121a-b20a-4437-932d-48aeae321316": {
+      "user_message_count": 1,
+      "agent_message_count": 1,
+      "start_timestamp": "2026-07-13T16:59:14+02:00",
+      "end_timestamp": "1970-01-01T01:00:00+01:00",
+      "markdown_size_bytes": 390,
+      "provider": "copilotide",
+      "last_updated": "2026-07-13T14:59:42Z"
+    },
     "af9d05b5-3762-4954-8dc2-0a4478580294": {
       "user_message_count": 2,
       "agent_message_count": 2,
@@ -116,6 +143,15 @@
       "markdown_size_bytes": 2849,
       "provider": "copilotide",
       "last_updated": "2026-07-13T13:44:36Z"
+    },
+    "ba7898d8-7b18-4391-a5db-1e82ee24c3d1": {
+      "user_message_count": 1,
+      "agent_message_count": 1,
+      "start_timestamp": "2026-07-13T16:53:13+02:00",
+      "end_timestamp": "1970-01-01T01:00:00+01:00",
+      "markdown_size_bytes": 870,
+      "provider": "copilotide",
+      "last_updated": "2026-07-13T14:54:12Z"
     },
     "baa63a2b-e1a5-468a-bea7-97e1974d735f": {
       "user_message_count": 3,
